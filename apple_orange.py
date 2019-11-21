@@ -11,11 +11,12 @@ import sys
 def countApplesAndOranges(s, t, a, b, apples, oranges):
     count_a, count_b = 0, 0
     min_a, min_b = s - a, b - t
+    max_a, max_b = t - a, b - s
     for i in apples:
-        if i >= 0 and i >= min_a:
+        if i >= 0 and i >= min_a and i <= max_a:
             count_a += 1
     for i in oranges:
-        if i < 0 and abs(i) >= min_b:
+        if i < 0 and abs(i) >= min_b and abs(i) <= max_b:
             count_b += 1
     print(count_a)
     print(count_b)
