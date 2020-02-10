@@ -50,3 +50,4 @@ except:
 
 openAndClosePrices(_firstDate, _lastDate, _weekDay)
 
+#changes made on trial branch
