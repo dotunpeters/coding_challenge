@@ -11,7 +11,7 @@ from datetime import datetime
 
 # Complete the function below.
 
-def  openAndClosePrices(firstDate, lastDate, weekDay):
+def openAndClosePrices(firstDate, lastDate, weekDay):
     for i in range(5):
         i += 1
         with urlopen(f"https://jsonmock.hackerrank.com/api/stocks/?page={i}")as response:
