@@ -50,3 +50,4 @@ except:
 
 openAndClosePrices(_firstDate, _lastDate, _weekDay)
 
+#this comment is made on master branch
