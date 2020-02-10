@@ -1,15 +1,19 @@
 
 # Complete the birthday function below.
 def birthday(s, d, m):
-    if m == 0:
-        return 0
-    for choc in s:
-        month = m
-        result = choc + birthday(s[s.index(choc)+1:], d, month-1)  
-        
-        counter = 0
-        if result == d:
-            counter += 1
+    counter = 0
+    skip = []
+    for i in s:
+        skip.append(i)
+        if i not in skip:
+            x = s.index(i)+1
+        else:
+            count = skip.count(i)
+
+        for j in s[x:]:
+            if i + j == d:
+                counter += 1
+    return counter
 
 
 if __name__ == '__main__':
