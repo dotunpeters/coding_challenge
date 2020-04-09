@@ -1,0 +1,96 @@
+[33mcommit 3f608f10e2d0649cfb5914d56e95dde263a8d2a6[m[33m ([m[1;36mHEAD -> [m[1;32mMaster[m[33m)[m
+Author: dotun peter <oyelakindotun@gmail.com>
+Date:   Tue Feb 11 15:23:26 2020 +0100
+
+    add scss files
+
+[33mcommit 9016442ef8b972c9e9a1a4b7920cfd2f51ef4af0[m
+Merge: 2b75f42 3b74d6d
+Author: dotun peter <oyelakindotun@gmail.com>
+Date:   Mon Feb 10 12:54:35 2020 +0100
+
+    fixing merge conflict
+
+[33mcommit 2b75f42bfc13168e53b4a5b5a4a1a741cf076891[m
+Author: dotun peter <oyelakindotun@gmail.com>
+Date:   Mon Feb 10 12:38:42 2020 +0100
+
+    add comment to vh stock file on master branch
+
+[33mcommit 33ef6de3432984527a06f4f550e8bb29d183f7d2[m
+Author: dotun peter <oyelakindotun@gmail.com>
+Date:   Mon Feb 10 12:36:17 2020 +0100
+
+    save all changes
+
+[33mcommit 3b74d6dc915abce6824ec5d4b37032352a966440[m
+Author: dotun peter <oyelakindotun@gmail.com>
+Date:   Mon Feb 10 10:36:21 2020 +0100
+
+    trial file created
+
+[33mcommit 03a07a9c7e6493470f3ba6bbeded55b039034feb[m
+Author: dotun peter <oyelakindotun@gmail.com>
+Date:   Mon Feb 10 10:33:46 2020 +0100
+
+    add comment to vh stock.py file
+
+[33mcommit 7e722a6e5b89527bd8cf6046017e73164375b796[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: dotun peter <oyelakindotun@gmail.com>
+Date:   Mon Feb 10 08:35:18 2020 +0100
+
+    more solutions
+
+[33mcommit 3da551b0b017ff3cb9d5ee671fbe064e104684ac[m
+Author: dotun peter <oyelakindotun@gmail.com>
+Date:   Mon Dec 23 06:20:31 2019 +0100
+
+    ädding birthday_chocolate and breaking record algorith
+
+[33mcommit 1f4194ad666cf108773e0fd3bd4e3d26bd19e222[m
+Author: dotunpeters <oyelakindotun@gmail.com>
+Date:   Thu Dec 12 15:56:13 2019 +0100
+
+    more code
+
+[33mcommit 69895cc506d88ba55590cd8eb19aa8b7af3827d2[m
+Author: dotunpeters <oyelakindotun@gmail.com>
+Date:   Thu Nov 21 11:11:44 2019 +0100
+
+    problem solved with linear time complexity O(n)
+
+[33mcommit 708244376d52428d21bb800bf550126b10e5e29d[m
+Author: dotunpeters <oyelakindotun@gmail.com>
+Date:   Thu Nov 21 10:33:26 2019 +0100
+
+    add apple_orange algorithm problem
+
+[33mcommit f4f9aaeabdd30587ebb46faeda04be8f4a6e51b2[m
+Author: Oyelakin Dotun Peter <oyelakindotun@gmail.com>
+Date:   Mon Jun 24 23:47:04 2019 +0100
+
+    Delete Ex_Files_Python_GUI_Dev_Tkinter.zip
+
+[33mcommit 34893bc347312a645be698471bd5811a39c2e342[m
+Author: dotunpeters <oyelakindotun@gmail.com>
+Date:   Mon Jun 24 23:45:21 2019 +0100
+
+    All vanhack and hackerrank coding challenge
+
+[33mcommit 942fdf7cd21e17d842801e7042eba20ba9d60fb9[m
+Author: dotunpeters <oyelakindotun@gmail.com>
+Date:   Sat Jun 1 05:28:55 2019 +0100
+
+    catsAndMouse, collisionCourse and ElectronicsShop solved
+
+[33mcommit 77d2a84c73485c3e38bca18e6dd15c89a22cf203[m
+Author: Dotun <oyelakindotun@gmail.com>
+Date:   Sat Jun 1 02:39:06 2019 +0100
+
+    vanHack coding challenge
+
+[33mcommit 1578bdd67133cb3f2a6c21e65edf20354ca877a0[m
+Author: Oyelakin Dotun Peter <oyelakindotun@gmail.com>
+Date:   Sat Jun 1 02:34:23 2019 +0100
+
+    Initial commit

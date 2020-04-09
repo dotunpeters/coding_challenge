@@ -1,0 +1,11 @@
+$color: red;
+$size: 15px;
+
+ol{
+    color: $color;
+}
+
+ul{
+    background-color: $color;
+    font-size: $size;
+}
