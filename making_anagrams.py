@@ -27,4 +27,4 @@ if __name__ == '__main__':
 
     res = makeAnagram(a, b)
 
-    priint(res)
+    print(res)
